@@ -4,7 +4,7 @@
 This repository contains files related to the development of a Power BI dashboard for analyzing the electric vehicle (EV) market. The dashboard provides comprehensive insights into market size, growth trends, and technological advancements, catering to the diverse needs of stakeholders within the automotive industry.
 
 ## Files
-- **Electric_Vehicle_Population_Data.csv:** Contains the dataset used for analysis, including information on Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs).
+- **Electric_Vehicle_Population_Data.zip:** Contains the dataset used for analysis, including information on Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs).
 - **EV_Analysis.pbix:** Power BI file containing the dashboard with interactive visualizations and in-depth analysis of the EV market dynamics.
 
 ## Features
